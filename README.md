@@ -72,4 +72,9 @@ npm start
 ![Own perfil](https://github.com/BrunaDuarte-3321/Netflix_Clone_ReactJs/blob/main/clonenetflix/src/assets/img/responsive.png)
 
 
-## Links
+
+ 
+ 
+ <a href="https://www.linkedin.com/in/devbrunaduarte/"><img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"><a/>
+
+⭐️ Projeto desenvolvido na live transmitida no calnal do youtube da  <a href="https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ">B7web<a/>
